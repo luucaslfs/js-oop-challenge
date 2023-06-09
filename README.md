@@ -32,7 +32,3 @@ e com os seguintes métodos:
   
 Como desenvolvedor(a) que usarei seu programa, devo poder criar Books e Libraries e executar os métodos presentes em Library.
 
-Forma de entrega:
-1ª opção: Criar um repositório no github e colocar o link na atividade (aproveita e já pratica Git 😉)
-2ª opção: Colocar o arquivo com o código aqui na atividade
-
